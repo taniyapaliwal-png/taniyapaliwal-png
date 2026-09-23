@@ -10,20 +10,6 @@
 
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Taniya+%F0%9F%91%8B;Taniya+Paliwal;Learning+Developer;Python+%7C+DSA+%7C+Data+%26+AI" alt="Typing SVG" />
-</h1>
-
-<h3>Learning developer from India 🇮🇳</h3>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=taniyapaliwal-png&label=PROFILE+VIEWS&color=00ff9c&style=flat" alt="Profile Views" />
-</p>
-
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Taniya+%F0%9F%91%8B;Taniya+Paliwal;Learning+Developer;Python+%7C+DSA+%7C+Data+%26+AI" alt="Typing SVG" />
 
 <p>
