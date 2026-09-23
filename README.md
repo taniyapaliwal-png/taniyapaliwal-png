@@ -1,187 +1,80 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Taniya+Paliwal+%F0%9F%91%8B;Learning+Developer+%7C+Python+%7C+DSA;Exploring+Data+Science+%26+AI;Building+Projects+While+I+Learn" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Taniya+%F0%9F%91%8B;Learning+%26+Building+with+Code;Python+%7C+DSA+%7C+Data+%26+AI" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=taniyapaliwal-png&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Taniya+%F0%9F%91%8B;Taniya+Paliwal;Learning+Developer;Python+%7C+DSA+%7C+Data+%26+AI" alt="Typing SVG" />
-
 <p>
-  <b>Learning. Building. Breaking things. Fixing them.</b>
+  <i>learning by building, breaking & fixing things.</i>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=taniyapaliwal-png&label=PROFILE+VIEWS&color=00ff9c&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=taniyapaliwal-png&label=VISITORS&color=B57EDC&style=flat-square" alt="Profile Views"/>
 
 </div>
 
----
-
-## ✦ About Me
-
-Hey! I'm **Taniya**, a learning developer from India 🇮🇳
-
-I'm currently building my foundation in **Python, C++, and Data Structures & Algorithms**, while gradually moving toward **Data Science, Machine Learning, and AI**.
-
-I like learning by actually building things — small projects, experiments, and whatever weird idea I happen to get while learning.
-
-### Currently
-
-🌱 **Learning:** Python • C++ • DSA • NumPy • Pandas
-🔭 **Building:** Small projects to turn concepts into actual working code
-🧠 **Exploring:** Data Analytics • Machine Learning • AI
-🎯 **Goal:** Become a strong problem solver and build useful real-world projects
-🎖️ **Fun fact:** Former NCC cadet
-
-> *I don't want to just know how the code works. I want to understand why it works.*
+<br>
 
 ---
 
-## ⚡ Current Focus
+## 🌷 about me
 
-<p align="center">
+Hey, I'm **Taniya** — a student and aspiring developer from India.
 
-<img src="https://img.shields.io/badge/Python-Learning-00FF9C?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-Learning-00FF9C?style=for-the-badge&logo=cplusplus&logoColor=black" />
-<img src="https://img.shields.io/badge/DSA-Learning-00FF9C?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/Data-Exploring-00FF9C?style=for-the-badge&logo=databricks&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-00FF9C?style=for-the-badge&logo=googlebrain&logoColor=black" />
+I'm currently building my foundations in **Python, C++, and DSA**, while exploring the world of **Data Science, Machine Learning & AI**.
 
-</p>
+I learn best when I can actually *make something* with what I'm learning — so you'll find small experiments, projects, messy first attempts and hopefully better versions of them here.
 
----
+> *I don't want to just know what the code does — I want to understand why it works.*
 
-# 🛠️ Tech Stack
+<br>
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
-
-### Data • Tools • Development
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,mysql,git,github,vscode" />
+`python` · `cpp` · `dsa` · `data` · `ai`
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=taniyapaliwal-png&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniyapaliwal-png&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taniyapaliwal-png&hide_border=true&theme=dark" alt="GitHub Streak" />
-
-</div>
-
----
-
-# 📈 My GitHub Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taniyapaliwal-png&theme=github_dark" alt="GitHub Contribution Summary" />
-
-</p>
-
-> Your **actual GitHub contribution calendar** is also visible directly on your GitHub profile above this README.
-
----
-
-# ⭐ Featured Project
-
-<div align="center">
-
-<a href="https://github.com/taniyapaliwal-png/Day-07-Game-of-Life">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=taniyapaliwal-png&repo=Day-07-Game-of-Life&theme=github_dark&hide_border=true" />
-
-</a>
-
-</div>
-
-### 🎮 Game of Life
-
-A Python implementation of **Conway's Game of Life**, built while learning programming fundamentals and experimenting with logic-based projects.
-
-<p align="center">
-<a href="https://github.com/taniyapaliwal-png/Day-07-Game-of-Life">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-</p>
-
----
-
-# 🚀 What's Next
-
-<div align="center">
-
-**Python**
-↓
-**Data Structures & Algorithms**
-↓
-**NumPy + Pandas**
-↓
-**Data Analysis & Visualization**
-↓
-**Machine Learning**
-↓
-**Real-World Projects**
-↓
-**AI & Deployment**
-
-</div>
-
----
-
-# 📌 Currently Building
+## ✦ what I'm working on
 
 <table align="center">
 <tr>
-<td align="center" width="250">
+<td width="50%" valign="top">
 
 ### 🐍 Python
 
-Strengthening fundamentals
-through projects & practice.
+Strengthening my fundamentals through  
+projects, problem solving & practice.
 
 </td>
 
-<td align="center" width="250">
+<td width="50%" valign="top">
 
 ### 🧠 DSA
 
-Learning problem solving
-and core data structures.
+Learning to think through problems  
+instead of just memorising solutions.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data
+
+Exploring NumPy, Pandas,  
+data analysis & visualisation.
 
 </td>
 
-<td align="center" width="250">
+<td width="50%" valign="top">
 
-### 📊 Data + AI
+### ✨ AI / ML
 
-Working toward
-Data Science & ML.
+Slowly working my way toward  
+Machine Learning & real-world AI projects.
 
 </td>
 </tr>
@@ -189,20 +82,110 @@ Data Science & ML.
 
 ---
 
-# 📫 Let's Connect
+## 🛠️ things I use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,numpy,pandas,mysql,git,github,vscode&theme=light" />
+
+</div>
+
+<br>
+
+---
+
+## 📈 github at a glance
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taniyapaliwal-png&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=B57EDC&icon_color=B57EDC&text_color=555555&bg_color=ffffff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniyapaliwal-png&layout=compact&hide_border=true&langs_count=8&title_color=B57EDC&text_color=555555&bg_color=ffffff" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=taniyapaliwal-png&bg_color=ffffff&color=555555&line=B57EDC&point=B57EDC&area=true&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taniyapaliwal-png&theme=default" width="90%" />
+
+</div>
+
+---
+
+## 🌱 currently building
+
+<div align="center">
+
+| | |
+|---|---|
+| 🐍 **Python** | fundamentals + projects |
+| 🧠 **DSA** | problem solving |
+| 📊 **Data** | NumPy + Pandas |
+| ✨ **AI / ML** | exploring the field |
+
+</div>
+
+---
+
+## 🎮 a little project
+
+<div align="center">
+
+<a href="https://github.com/taniyapaliwal-png/Day-07-Game-of-Life">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=taniyapaliwal-png&repo=Day-07-Game-of-Life&theme=default&hide_border=true&title_color=B57EDC" />
+
+</a>
+
+</div>
+
+### Conway's Game of Life
+
+A Python implementation of Conway's Game of Life,  
+built while learning programming fundamentals and experimenting with logic-based projects.
+
+<div align="center">
+
+<a href="https://github.com/taniyapaliwal-png/Day-07-Game-of-Life">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-B57EDC?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🌸 beyond the code
+
+I like **painting, creating things, experimenting with ideas** and turning random thoughts into little projects.
+
+Also a former **NCC cadet** 🎖️
+
+---
+
+## 📫 find me here
 
 <div align="center">
 
 <a href="mailto:taniyapaliwal143@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <a href="https://www.linkedin.com/in/taniya-529580374/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <a href="https://instagram.com/taniya._.25">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+<img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 </div>
@@ -211,6 +194,6 @@ Data Science & ML.
 
 <div align="center">
 
-### `building my way into tech, one commit at a time.`
+### `♡ building things, one commit at a time.`
 
 </div>
