@@ -14,77 +14,28 @@
 
 ---
 
-## ୨୧   `whoami`
+## ⋆ about me ⋆
 
-```python
-class Taniya:
+hii, I'm **Taniya** ♡ a student from India, slowly turning into a developer, one bug at a time 🐛✨
 
-    role = "Learning Developer"
-    currently = ["Python", "C++", "DSA", "Data Science"]
-    exploring = ["Machine Learning", "AI", "Blender"]
+I'm learning **Python, C++ and DSA**, and dreaming my way toward **data science & AI**.
+when I'm not coding, I'm probably painting, on Blender, or being an NCC cadet lol.
 
-    learning_style = "build → break → understand → rebuild"
-
-    goal = "build things I actually understand"
-
-    motto = "code should make sense, not just run"
-```
-
-I'm **Taniya**, a student from India building my way into tech.
-
-I'm currently strengthening my foundations in **Python, C++, and Data Structures & Algorithms**, while moving toward **Data Science, Machine Learning, and AI**.
-
-I like understanding things from the inside out — writing code, breaking it, figuring out *why* it broke, and then making it better.
-
-And somewhere between all that, I'm also exploring **Blender & creative technology** because apparently one field wasn't enough. ♡
+> *code should make sense, not just run* 🌷
 
 ---
 
-## ✦ `currently.exe`
+## ⌁ tech stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=E6A8D7" />
-<img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=E6A8D7" />
-<img src="https://img.shields.io/badge/DSA-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=E6A8D7" />
-<img src="https://img.shields.io/badge/Data%20Science-0d0d0d?style=for-the-badge&logo=databricks&logoColor=E6A8D7" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-0d0d0d?style=for-the-badge&logo=google&logoColor=E6A8D7" />
-<img src="https://img.shields.io/badge/Blender-0d0d0d?style=for-the-badge&logo=blender&logoColor=E6A8D7" />
-
-</div>
-
-<br>
-
-```text
-learning       ███████████████░░░░░
-building       ████████████░░░░░░░░
-experimenting  █████████████░░░░░░░
-sleeping       ██░░░░░░░░░░░░░░░░░░
-```
-
----
-
-# ⌁ Tech Stack
-
-<div align="center">
-
-### `languages`
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css&theme=dark" />
-
-### `data • development • tools`
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,mysql,git,github,vscode&theme=dark" />
-
-### `creative`
-
-<img src="https://skillicons.dev/icons?i=blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,numpy,pandas,mysql,git,github,vscode,blender&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-# ୨୧ GitHub Analytics
+## ୨୧ GitHub Analytics
 
 <div align="center">
 
@@ -112,7 +63,7 @@ sleeping       ██░░░░░░░░░░░░░░░░░░
 
 ---
 
-# ⌁ Projects
+## ⌁ projects
 
 ### 🎮 Game of Life
 
@@ -132,11 +83,15 @@ An implementation of **Conway's Game of Life**, created while learning programmi
 
 <br>
 
-> more projects loading... `████████░░ 80%`
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=600&color=E6A8D7&center=true&vCenter=true&width=500&lines=more+projects+loading...+%E2%9C%A6;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+80%25;almost+there...+%E2%99%A1" alt="loading animation" />
+
+</div>
 
 ---
 
-# ୨୧ What I'm Learning
+## ୨୧ what I'm learning
 
 <div align="center">
 
@@ -158,7 +113,7 @@ AI + Real Projects
 
 ---
 
-# ⌁ A little outside the terminal
+## ⌁ a little outside the terminal
 
 **NCC cadet • creative projects • painting • Blender • random ideas that somehow become projects**
 
@@ -168,7 +123,7 @@ Which is probably why I'm equally happy debugging Python at 2AM or opening Blend
 
 ---
 
-# ୨୧ Connect
+## ୨୧ connect
 
 <div align="center">
 
@@ -192,4 +147,8 @@ Which is probably why I'm equally happy debugging Python at 2AM or opening Blend
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=E6A8D7&center=true&vCenter=true&width=600&lines=%E2%9C%A6+building+something+better+with+every+commit+%E2%9C%A6;%E2%9C%A6+learning+never+goes+out+of+style+%E2%9C%A6;%E2%9C%A6+%3Ccode%3E+%2B+creativity+%E2%99%A1+%3C%2Fcode%3E+%E2%9C%A6" alt="Footer animation" />
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1b29,50:17121a,100:0d0d0d&height=90&section=footer" width="100%" />
 </div>
