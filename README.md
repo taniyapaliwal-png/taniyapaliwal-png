@@ -1,82 +1,29 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Taniya</h1>
+<h3 align="center">A learning developer in India.</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=1100&color=E6A8D7&center=true&vCenter=true&width=850&lines=Taniya+Paliwal;Python+%7C+C%2B%2B+%7C+DSA+%7C+Data+Analytics;Building+at+the+intersection+of+code+%26+creativity." alt="Typing animation" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taniyapaliwal-png&label=Profile%20views&color=0e75b6&style=flat" alt="taniyapaliwal-png" /> </p>
 
-<br>
+- 🔭 I’m currently working on [GameofLife](https://github.com/taniyapaliwal-png/Day-07-Game-of-Life)
 
-<img src="https://komarev.com/ghpvc/?username=taniyapaliwal-png&label=PROFILE+VIEWS&color=E6A8D7&style=flat-square" alt="Profile views"/>
+- 🌱 I’m currently learning **DSA,C++ and libraries**
 
-<br><br>
+- 💬 Ask me about **C++ and DSA Problems**
 
-<a href="https://github.com/taniyapaliwal-png">
-<img src="https://img.shields.io/badge/GitHub-taniyapaliwal--png-111111?style=flat-square&logo=github&logoColor=E6A8D7" />
-</a>
-<a href="https://www.linkedin.com/in/taniya-529580374/">
-<img src="https://img.shields.io/badge/LinkedIn-Taniya%20Paliwal-111111?style=flat-square&logo=linkedin&logoColor=E6A8D7" />
-</a>
+- 📫 How to reach me **taniyapaliwal143@gmail.com**
 
-</div>
+- ⚡ Fun fact **I was also an NCC candidate**
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@taniya_paliwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@taniya_paliwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/taniya-529580374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taniya-529580374/" height="30" width="40" /></a>
+<a href="https://instagram.com/taniya._.25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taniya._.25" height="30" width="40" /></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=2&section=header" width="100%" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## About
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taniyapaliwal-png&show_icons=true&locale=en&layout=compact" alt="taniyapaliwal-png" /></p>
 
-I'm **Taniya**, a student and developer building my foundation in **Python, C++, DSA, and data analytics**, with a long-term focus on **AI and data science**.
-
-Currently, I'm focused on turning what I learn into actual projects — not just collecting tutorials.
-
-```text
-Python          → Programming & automation
-C++ + DSA       → Problem solving
-NumPy / Pandas  → Data manipulation
-Matplotlib      → Data visualization
-Data Analysis   → Finding patterns in real datasets
-AI / ML         → What's next
-```
-
-> **Learning by building. Improving by breaking things.**
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,numpy,pandas,mysql,git,github,vscode,blender&theme=dark&perline=6" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Python` · `C++` · `DSA` · `NumPy` · `Pandas` · `Matplotlib` · `SQL` · `Git` · `GitHub`
-
-</div>
-
----
-
-## Featured Project
-
-### Netflix Data Analysis
-
-**Python · Pandas · Matplotlib · Data Cleaning · Exploratory Analysis**
-
-A data analysis project built around a Netflix dataset to explore **ratings, release years, content patterns, and distribution trends**.
-
-The project focuses on taking a raw CSV dataset through the actual analysis workflow:
-
-```text
-Raw Dataset
-     ↓
-Data Inspection
-     ↓
-Cleaning & Validation
-     ↓
-Exploratory Analysis
-     ↓
-Visualization
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taniyapaliwal-png&" alt="taniyapaliwal-png" /></p>
 
