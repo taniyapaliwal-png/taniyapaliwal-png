@@ -12,7 +12,7 @@
 
 <h2 align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="wave" width="34" height="34" />
-  A little about me
+  About Taniya
 </h2>
 
 <p align="center">
@@ -21,8 +21,33 @@
 </p>
 
 <p align="center">
-  <img src="assets/about-terminal.svg" alt="About Taniya, shown as a terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=B5A2D6&center=true&vCenter=true&width=620&lines=name+%3A+Taniya;from+%3A+India;role+%3A+aspiring+developer;building+%3A+EarthSignal;learning+%3A+C%2B%2B+%7C+DSA+%7C+ML+%7C+data+analysis;fun+fact+%3A+former+NCC+candidate" alt="About Taniya typing animation" />
 </p>
+
+```javascript
+const taniya = {
+  name: "Taniya",
+  role: "Aspiring Developer",
+  location: "India",
+  funFact: "Former NCC candidate",
+
+  building: [
+    "EarthSignal",
+    "Netflix Data Analysis",
+    "Game of Life"
+  ],
+
+  learning: [
+    "Data Structures & Algorithms",
+    "C++",
+    "Machine Learning",
+    "Data Analysis"
+  ],
+
+  askMeAbout: ["C++", "DSA problems"],
+  motto: "Progress, not perfection. One commit at a time."
+};
+```
 
 <details>
   <summary><b>✨ Click for a few fun facts</b></summary>
@@ -41,8 +66,63 @@
 </h2>
 
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="Tech stack: C++, Python, Java, pandas, numpy, matplotlib, VS Code, Git, GitHub, Docker, AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=9BB59F&center=true&vCenter=true&width=620&lines=languages+%3A+C%2B%2B+%7C+Python+%7C+Java;libraries+%3A+pandas+%7C+numpy+%7C+matplotlib;tools+%3A+VS+Code+%7C+Git+%7C+Docker+%7C+AWS;leveling+up+%3A+ML+%7C+DSA+%7C+data+analysis" alt="Skills typing animation" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" /><br /><b>C++</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br /><b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" /><br /><b>Java</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50" alt="pandas" /><br /><b>pandas</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="numpy" /><br /><b>numpy</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="matplotlib" /><br /><b>matplotlib</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /><br /><b>Docker</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" /><br /><b>AWS</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" /><br /><b>VS Code</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br /><b>Git</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><b>Currently leveling up</b></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="44" height="44" alt="rocket" /><br /><b>Machine Learning</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="44" height="44" alt="laptop" /><br /><b>DSA</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="44" height="44" alt="fire" /><br /><b>Data Analysis</b>
+    </td>
+  </tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D98FA3,50:E8D08A,100:9BB59F&height=3" alt="divider" />
 
@@ -115,9 +195,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taniya-529580374/"><img src="assets/connect-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="https://x.com/taniya_paliwal"><img src="assets/connect-x.svg" alt="X" /></a>
-  <a href="https://instagram.com/taniya._.25"><img src="assets/connect-instagram.svg" alt="Instagram" /></a>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="wave" width="40" height="40" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/taniya-529580374/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8FB4D9?style=for-the-badge&logo=linkedin&logoColor=2B2623" alt="LinkedIn" /></a>
+  <a href="https://x.com/taniya_paliwal"><img src="https://img.shields.io/badge/X-Follow-E8D08A?style=for-the-badge&logo=x&logoColor=2B2623" alt="X" /></a>
+  <a href="https://instagram.com/taniya._.25"><img src="https://img.shields.io/badge/Instagram-Say%20hi-D98FA3?style=for-the-badge&logo=instagram&logoColor=2B2623" alt="Instagram" /></a>
+  &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="sparkles" width="40" height="40" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D98FA3,50:6B4A5A,100:2B2623&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=22&fontColor=F5E9DD&fontAlignY=65" alt="footer" />
